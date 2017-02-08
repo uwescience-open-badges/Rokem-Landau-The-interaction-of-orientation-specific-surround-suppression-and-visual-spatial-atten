@@ -59,3 +59,9 @@ As the reviewer I confirm that there are no conflicts of interest for me to revi
 
 I estimate that the review took me 15 minutes
 
+## Editor's summary of reviews
+
+Both reviewers note that GitHub is not a suitable repository for open data/materials. The author is recommended to deposit their materials in a trustworthy repostitory (see https://github.com/uwescience-open-badges/about#where-can-i-archive-my-data-and-materials for suggestions) and update their submission. Once this is done, and a revised copy submitted [here](https://github.com/uwescience-open-badges/Rokem-Landau-The-interaction-of-orientation-specific-surround-suppression-and-visual-spatial-atten/issues/new), we can award the badge
+
+Minor details include: a more detailed statement of data/code availability, giving a little more detail of what the reader should expect to find, and a cleaner organisation of the repository to make it easier for to navigate. These improvements are not required for the badge, but will likely result in a better paper. 
+
