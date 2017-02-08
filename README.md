@@ -25,3 +25,23 @@ Here is a template review that you're welcome to copy-paste in your email to `bm
 > As the reviewer I confirm that there are no conflicts of interest for me to review this work (such as being a major contributor to the reseach).
 > 
 > I estimate that the review took me [15?] minutes
+
+# Reviews
+
+## Reviewer 1
+
+I have inspected the submission by Rokem and I confirm that:
+
+- the URL in the text do lead to the data & code files as claimed, and
+the files in the repository are related to the submission.
+- As the reviewer I confirm that there are no conflicts of interest for me to review this work (such as being a major contributor to the reseach).
+
+I would say this submission does not meet the third requirement:
+
+>the submission has a disclosure statement including one or more persistent URLs to [data/code/data & code] files at a trustworthy repository, and sufficient information for an independent researcher to reproduce the reported results.
+
+The reason for this is that I would not consider a GitHub URL persistent.
+
+This review took about 15 minutes.
+
+## Reviewer 2
