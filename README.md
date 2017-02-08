@@ -42,6 +42,8 @@ I would say this submission does not meet the third requirement:
 
 The reason for this is that I would not consider a GitHub URL persistent.
 
+I recommend the authors have a more distinct disclosure statement, perhaps with a subheading. For this one, it was a sentence in the results section.
+
 This review took about 15 minutes.
 
 ## Reviewer 2
