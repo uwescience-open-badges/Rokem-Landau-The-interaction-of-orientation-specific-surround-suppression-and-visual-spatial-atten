@@ -25,6 +25,7 @@ Here is a template review that you're welcome to copy-paste in your email to `bm
 > As the reviewer I confirm that there are no conflicts of interest for me to review this work (such as being a major contributor to the reseach).
 > 
 > I estimate that the review took me [15?] minutes
+----
 
 # Reviews
 
@@ -47,3 +48,14 @@ I recommend the authors have a more distinct disclosure statement, perhaps with 
 This review took about 15 minutes.
 
 ## Reviewer 2
+
+ I have inspected the submission by Rokem, and I confirm that:
+
+-   the submission has a disclosure statement including URLs to data & code files at a trustworthy repository, but the files in Github may be modified at any time so they are not permanent.    
+-   the URLs in the text do lead to the data & code files as claimed     
+-   the files in the repository are related to the submission but many of the code files represent tweaking iterations. Finalized code files corresponding to respective figures may be more helpful for anyone who wishes to reproduce the results.    
+
+As the reviewer I confirm that there are no conflicts of interest for me to review this work (such as being a major contributor to the reseach).
+
+I estimate that the review took me 15 minutes
+----
